@@ -42,4 +42,4 @@ I am actively seeking **internship opportunities** and **collaborations** to app
 |**Platform**|**Link**|
 |**LinkedIn**|https://www.linkedin.com/in/anabw/|
 |**X/Twitter**|https://x.com/AnaBos12|
-|**Email**|mailto: anawakeyo@gmail.com|
+|**Email**|anawakeyo@gmail.com|
