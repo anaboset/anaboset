@@ -40,36 +40,6 @@ I am actively seeking **internship opportunities** and **collaborations** to app
 |   |   |
 |---|---|
 |**Platform**|**Link**|
-|**LinkedIn**|[](https://www.linkedin.com/in/anabw/)|
-|**X/Twitter**|[](https://x.com/AnaBos12)|
+|**LinkedIn**|[]([https://www.linkedin.com/in/anabw/])|
+|**X/Twitter**|[]([https://x.com/AnaBos12])|
 |**Email**|[](mailto: anawakeyo@gmail.com)|
-
-### 📊 GitHub Stats
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=default&include_all_commits=true&count_private=true" height="150" alt="[YOUR_USERNAME]'s GitHub Stats" />
-
-</picture>
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YOUR_USERNAME]&layout=compact&langs_count=8&theme=dark">
-
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YOUR_USERNAME]&layout=compact&langs_count=8&theme=default" height="150" alt="Top Languages" />
-
-</picture>
-
-<br clear="both"/>
-
-<p align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D[YOUR_USERNAME]&theme=flat&no-frame=true&no-bg=true" alt="Trophy" />
-
-</a>
-
-</p>
