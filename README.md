@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Ana Boset Wakeyo!
+# Hi👋, I'm Ana Boset Wakeyo!
 
-### ⚕️ Bridging Pharmacy(Healthcare) & AI Engineering
+### ⚕️ Bridging Healthcare & AI Engineering
 
 I'm a **5th Year Pharmacy Student at Haramaya University, Ethiopia**, actively self-teaching and transitioning into **AI Engineering**. My unique mission is to fuse deep clinical knowledge with data science to build **intelligent, impactful health-tech solutions**. I'm dedicated to improving patient care and operational efficiency through AI.
 
@@ -16,7 +16,6 @@ My primary technical focus is on leveraging **Python** for machine learning and 
 |**LLM Interface**|✍️ **Prompt Engineering** (Maximizing model safety, accuracy, and utility)|
 |**Web Dev Basics**|🌐 **HTML, CSS, JavaScript** (Foundational understanding for building front-end AI interfaces)|
 |**Domain**|🏥 **Healthcare Systems**, Pharmacovigilance, Clinical Data Analysis, Health-Tech|
-|**Backend/Tools**|☁️ Cloud platforms (AWS/GCP/Azure basics), ⚙️ Git, REST APIs, PostgreSQL/MongoDB|
 
 ### 🚀 Featured Project: Intelligent EHR System
 
@@ -25,13 +24,18 @@ My primary technical focus is on leveraging **Python** for machine learning and 
 - **Objective:** To create a modern, efficient system that assists healthcare providers and minimizes diagnostic errors.
     
 - **Key AI Features:**
+  
+    - **Triage Assistant:** Triage copilot that collects patient symptoms, analyzes them, and routes the patient to the right care level in real time.
     
     - **Diagnostic Assistant:** AI-powered initial differential diagnosis support.
         
     - **History Summarizer:** Using NLP/RAG to condense lengthy patient charts into actionable summaries.
         
     - **Clinical Workflow Automation (Agents):** Implementing autonomous agents to handle administrative tasks and follow-up generation.
-        
+ 
+    - **Advanced Parametric Search (Smart Search):** Implements a highly-configurable search interface allowing users (e.g., researchers) to retrieve custom patient cohorts based on multiple, simultaneous demographic, clinical, and geographical criteria.
+ 
+    - **Automated Outbreak Detection Engine:** Uses real-time data analysis to identify and flag statistically significant disease clusters in specific geographic areas, immediately alerting health administration officials.
 
 ### 🤝 Let's Collaborate or Connect
 
