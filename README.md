@@ -12,30 +12,10 @@ My primary technical focus is on leveraging **Python** for machine learning and 
 |---|---|
 |**Category**|**Technologies & Concepts**|
 |**AI/ML**|🐍 **Python**, **Maths for ML**, Pandas, Scikit-learn, TensorFlow/PyTorch (Learning)|
-|**LLM Stack**|🗣️ **Natural Language Processing (NLP)**, **RAG (Retrieval-Augmented Generation)**, **AI Agents** (Autonomous Workflows)|
+|**LLM Stack**|🗣️ **RAG (Retrieval-Augmented Generation)**, **AI Agents**, **Natural Language Processing (NLP)**, **Autonomous Workflows** |
 |**LLM Interface**|✍️ **Prompt Engineering** (Maximizing model safety, accuracy, and utility)|
 |**Web Dev Basics**|🌐 **HTML, CSS, JavaScript** (Foundational understanding for building front-end AI interfaces)|
-|**Domain**|🏥 **Healthcare Systems**, Pharmacovigilance, Clinical Data Analysis, Health-Tech|
-
-### 🚀 Featured Project: Intelligent EHR System
-
-**Current Major Project:** Developing a comprehensive **Medical Health Record (EHR) Software** with advanced AI integration.
-
-- **Objective:** To create a modern, efficient system that assists healthcare providers and minimizes diagnostic errors.
-    
-- **Key AI Features:**
-  
-    - **Triage Assistant:** Triage copilot that collects patient symptoms, analyzes them, and routes the patient to the right care level in real time.
-    
-    - **Diagnostic Assistant:** AI-powered initial differential diagnosis support.
-        
-    - **History Summarizer:** Using NLP/RAG to condense lengthy patient charts into actionable summaries.
-        
-    - **Clinical Workflow Automation (Agents):** Implementing autonomous agents to handle administrative tasks and follow-up generation.
- 
-    - **Advanced Parametric Search (Smart Search):** Implements a highly-configurable search interface allowing users (e.g., researchers) to retrieve custom patient cohorts based on multiple, simultaneous demographic, clinical, and geographical criteria.
- 
-    - **Automated Outbreak Detection Engine:** Uses real-time data analysis to identify and flag statistically significant disease clusters in specific geographic areas, immediately alerting health administration officials.
+|**Domain**|🏥 **Pharmacy**, Health care systems, Pharmacovigilance, Clinical Data Analysis, Health-Tech|
 
 ### 🤝 Let's Collaborate or Connect
 
