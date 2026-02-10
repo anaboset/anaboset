@@ -35,7 +35,7 @@ I’m building a strong foundation in **AI engineering and full-stack thinking**
 
 ## 🚀 Featured Project (Currently Building)
 
-### 🫀 AI-Powered Cardiovascular Disease (CVD) Management System
+### 🫀 CardioSentinel: AI-Powered Cardiovascular Disease (CVD) Management System
 
 A **production-oriented health-tech AI system** designed to support cardiovascular disease management using modern LLM architectures and clinical reasoning.
 
