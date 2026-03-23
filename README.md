@@ -14,6 +14,7 @@
 ### ⚕️ Pharmacy × AI Engineering | Building Intelligent Health-Tech Systems
 
 I’m a **5th-year Pharmacy student at Haramaya University (Ethiopia)** with a strong and growing focus on **AI Engineering for healthcare**.  
+
 My work sits at the intersection of **clinical knowledge, data, and intelligent systems** — turning real healthcare problems into scalable, AI-driven solutions.
 
 I’m deeply passionate about **problem-solving, innovation, and ethical AI**, especially where patient safety, clinical decision-making, and system efficiency matter most.
