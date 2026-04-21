@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ana Boset Wakeyo
 
-<img width="1536" height="1024" alt="85c59f24-238d-4d05-8ec0-7ba29448db1d" src="https://github.com/user-attachments/assets/dcce7a6b-fb99-4a5f-9ce1-6ee6454b8e31" />
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnaBoset&label=Profile%20Views&color=0e75b6&style=flat)
