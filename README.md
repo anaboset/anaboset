@@ -1,9 +1,3 @@
-<!-- 
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  Profile README for Ana Boset Wakeyo                             ║
-  ║  Dark Theme • Vibrant • Animated • Professional                  ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
 
 <!-- Animated Typing Header -->
 <div align="center">
@@ -17,20 +11,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pharmacy%20%C3%97%20AI%20Engineering&fontSize=40&fontColor=00d9ff&animation=twinkling&fontAlignY=35" width="100%" />
 </p>
 
-<!-- Dynamic Badges -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnaBoset&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AnaBoset?label=Followers&style=for-the-badge&color=302b63&logo=github" />
-  <img src="https://img.shields.io/github/stars/AnaBoset?label=Stars&style=for-the-badge&color=24243e&logo=github" />
-</div>
-
-<br/>
-
 <!-- Current Role Badge -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🔭%20Current%20Role-Machine%20Learning%20Intern%20@Future%20Interns-00d9ff?style=for-the-badge&labelColor=0f0c29" />
-  <img src="https://img.shields.io/badge/🎓%20Education-5th%20Year%20Pharmacy%20@Haramaya%20University-ff00ff?style=for-the-badge&labelColor=0f0c29" />
-  <img src="https://img.shields.io/badge/🎯%20Focus-Healthcare%20AI%20%2F%20NLP%20%2F%20ML%20Engineering-00ff9d?style=for-the-badge&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/🔭%20CURRENT%20ROLE-Machine%20Learning%20Intern%20@Future%20Interns-00d9ff?style=for-the-badge&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/🎓%20EDUCATION-5th%20Year%20Pharmacy%20@Haramaya%20University-ff00ff?style=for-the-badge&labelColor=0f0c29" />
 </div>
 
 <br/>
@@ -39,17 +23,7 @@
 
 ## ⚡ About Me
 
-```diff
-Pharmacy Student | Intern-Machine Learning | Healthcare AI Builder
-
-! 🔬 Currently: Machine Learning Intern @ Future Interns
-#    → Applying core ML & NLP concepts to real-world business challenges
-! 🏥 Mission: Build intelligent, safe, and domain-aware health-tech systems
-#    → Bridging clinical expertise with engineering rigor
-! 🧠 Philosophy: Healthcare needs systems that understand context, responsibility, and impact
-```
-
-I'm a **5th-year Pharmacy student at Haramaya University (Ethiopia)** and a **Machine Learning Intern at Future Interns**, passionate about turning real healthcare and business problems into scalable, AI-driven solutions. My work sits at the intersection of **clinical knowledge, data, and intelligent systems** — with a strong focus on **patient safety, explainability, and ethical AI**.
+A **5th-year Pharmacy student at Haramaya University (Ethiopia)** and a **Machine Learning Intern at Future Interns**, passionate about turning real healthcare and business problems into scalable, AI-driven solutions. My work sits at the intersection of **clinical knowledge, data, and intelligent systems** — with a strong focus on **patient safety, explainability, and ethical AI**.
 
 <br/>
 
