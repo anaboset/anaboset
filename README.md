@@ -40,7 +40,7 @@
 ## ⚡ About Me
 
 ```diff
-@@ Pharmacy Student | Intern-Machine Learning | Healthcare AI Builder
+Pharmacy Student | Intern-Machine Learning | Healthcare AI Builder
 
 ! 🔬 Currently: Machine Learning Intern @ Future Interns
 #    → Applying core ML & NLP concepts to real-world business challenges
