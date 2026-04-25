@@ -156,16 +156,6 @@ A production-oriented health-tech AI system supporting cardiovascular disease ma
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnaBoset&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&bg_color=0f0c29" />
-</div>
-
-<br/>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
