@@ -3,19 +3,18 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AI%20Engineer&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Bridging%20Molecules%20And%20Models&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AI%20Engineer&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Healthier%20Futures&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
 
-
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=anaboset&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-anaboset.github.io-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://anaboset.github.io)
+![mission](https://img.shields.io/badge/mission-AI%20for%20Africa%20🌍-6e5c3e?style=for-the-badge&labelColor=2a2420&color=6e5c3e)
+![fueled by](https://img.shields.io/badge/fueled%20by-Ethiopian%20coffee%20☕-8c5a3a?style=for-the-badge&labelColor=2a2420&color=8c5a3a)
+![status](https://img.shields.io/badge/status-🟢%20actively%20building-3d6e52?style=for-the-badge&labelColor=2a2420&color=3d6e52)
+![open to](https://img.shields.io/badge/open%20to-remote%20opportunities-3a5a6e?style=for-the-badge&labelColor=2a2420&color=3a5a6e)
+![replies in](https://img.shields.io/badge/replies%20in-EN%20·%20አማርኛ%20·%20Afaan%20Oromo-7a6a60?style=for-the-badge&labelColor=2a2420&color=7a6a60)
 
 </div>
 
-
 ## ⚕️🧠 `Bridging Molecules & Models`
-I am an AI engineer & Pharmacy student building practical tech solutions to improve healthcare delivery, support clinical decisions, and drive real-world impact. My goal is to make intelligent, patient-centered healthcare systems more accessible and efficient.
+I am an AI engineer & Pharmacy student building practical tech solutions to improve healthcare delivery, support clinical decisions, and drive real-world impact. My goal is to design and implement intelligent, patient-centered healthcare systems.
 
 
 
@@ -27,7 +26,6 @@ I am an AI engineer & Pharmacy student building practical tech solutions to impr
 def build_ai_stack(task: str) -> dict:
     """
     Given a task, returns the right AI stack.
-    This is how I think about tooling.
     """
 
     if task == "RAG pipeline":
