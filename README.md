@@ -13,11 +13,12 @@
 
 </div>
 
+<br>
+
 ## ⚕️🧠 `Bridging Molecules & Models`
 I am an AI engineer & Pharmacy student building practical tech solutions to improve healthcare delivery, support clinical decisions, and drive real-world impact. My goal is to design and implement intelligent, patient-centered healthcare systems.
 
-
-
+<br>
 
 ## 💻 `$ expertise --list`
 
