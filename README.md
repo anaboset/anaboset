@@ -5,11 +5,11 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AI%20Engineer&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Healthier%20Futures&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
 
-![mission](https://img.shields.io/badge/mission-AI%20for%20Africa%20🌍-6e5c3e?style=for-the-badge&labelColor=2a2420&color=6e5c3e)
-![fueled by](https://img.shields.io/badge/fueled%20by-Ethiopian%20coffee%20☕-8c5a3a?style=for-the-badge&labelColor=2a2420&color=8c5a3a)
-![status](https://img.shields.io/badge/status-🟢%20actively%20building-3d6e52?style=for-the-badge&labelColor=2a2420&color=3d6e52)
-![open to](https://img.shields.io/badge/open%20to-remote%20opportunities-3a5a6e?style=for-the-badge&labelColor=2a2420&color=3a5a6e)
-![replies in](https://img.shields.io/badge/replies%20in-EN%20·%20አማርኛ%20·%20Afaan%20Oromo-7a6a60?style=for-the-badge&labelColor=2a2420&color=7a6a60)
+![mission](https://img.shields.io/badge/mission-AI%20for%20Healthcare%20💖-ff4757?style=for-the-badge&labelColor=1a1a2e)
+![fueled by](https://img.shields.io/badge/fueled%20by-Ethiopian%20coffee%20🔥-ffa502?style=for-the-badge&labelColor=1a1a2e)
+![status](https://img.shields.io/badge/status-actively%20building%20🚀-2ed573?style=for-the-badge&labelColor=1a1a2e)
+![open to](https://img.shields.io/badge/open%20to-remote%20opportunities%20🌐-1e90ff?style=for-the-badge&labelColor=1a1a2e)
+![replies in](https://img.shields.io/badge/replies%20in-EN%20·%20አማርኛ%20·%20Afaan%20Oromo%20💬-95a5a6?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
